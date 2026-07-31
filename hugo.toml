@@ -1,8 +1,7 @@
 baseURL = 'https://braisgabin.github.io/'
-locale = 'en-us'
+locale = 'en'
 title = 'Brais Gabín'
 theme = 'coder'
-languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
 
@@ -40,3 +39,21 @@ author = "authors"
 name = "Blog"
 weight = 1
 url  = "posts/"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/BraisGabin/"
+[[params.social]]
+name = "Mastodon"
+icon = "fa-brands fa-mastodon fa-2x"
+weight = 2
+url = "https://androiddev.social/@brais"
+[[params.social]]
+name = "RSS"
+icon = "fa-solid fa-rss fa-2x"
+weight = 3
+url = "https://braisgabin.github.io/index.xml"
+rel = "alternate"
+type = "application/rss+xml"

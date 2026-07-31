@@ -2,6 +2,7 @@
 date = '2026-07-24T12:41:25+02:00'
 draft = false
 title = 'Hello There'
+description = 'The presentation of this blog'
 +++
 
 ## Hello There
