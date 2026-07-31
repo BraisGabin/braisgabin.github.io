@@ -1,4 +1,4 @@
-baseURL = 'https://braisgabin.github.io/'
+baseURL = 'https://braisgabin.com/'
 locale = 'en'
 title = 'Brais Gabín'
 theme = 'coder'
