@@ -1,0 +1,39 @@
+baseURL = 'https://braisgabin.github.io/'
+locale = 'en-us'
+title = 'Brais Gabín'
+theme = 'coder'
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+
+[pagination]
+pagerSize = 30
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[params]
+author = "Brais Gabín"
+footer = "This web doesn't have any LLM generated content"
+info = "Mobile developer & Board game enjoyer"
+description = "Brais Gabín personal website"
+keywords = "blog,developer,personal"
+
+#faviconSVG = "/img/favicon.svg"
+#favicon_32 = "/img/favicon-32x32.png"
+#favicon_16 = "/img/favicon-16x16.png"
+
+colorScheme = "auto"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[menu.main]]
+name = "Blog"
+weight = 1
+url  = "posts/"
