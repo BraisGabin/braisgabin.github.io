@@ -8,7 +8,7 @@ title = 'Hello There'
 
 Hi, I'm Brais and this is my first post on my new website.
 
-I'm building it with [Hugo](https://gohugo.io/). I don't like CSS so this is just the default of the theme that I decided to install [Coder](https://github.com/luizdepra/hugo-coder)
+I'm building it with [Hugo](https://gohugo.io/). I don't like CSS, so I didn't customize the theme, [Coder](https://github.com/luizdepra/hugo-coder), too much.
 
 This is not the first time that I write a blog post, I wrote [some posts in the past at medium](https://medium.com/@braisgabin). But medium doesn't work for me anymore so I decided to build my own web. Maybe I port those all post here, we will see.
 
